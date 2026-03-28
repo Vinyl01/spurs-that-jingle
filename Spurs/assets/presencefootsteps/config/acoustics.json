@@ -1,0 +1,26 @@
+{
+  "type": "library",
+  "engineversion": 2,
+  "defaults": {
+    "vol_min": 90,
+    "vol_max": 100,
+    "pitch_min": 95,
+    "pitch_max": 105
+  },
+  "soundroot": "",
+  "contents": {
+     "spurboots": {
+        "events": {
+          "step": [
+            "@minecraft:spurstep1",
+            "@minecraft:spurstep2"
+          ]
+        },
+        "volume": 1.1,
+        "pitch": {
+          "min": 0.85,
+          "max": 1.0
+        }
+    }
+  }
+}

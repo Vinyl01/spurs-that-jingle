@@ -1,12 +1,8 @@
 {
   "spurboots": {
     "sounds": [
-      "spurs/jingle1"
-    ]
-  },
-  "spurboots2": {
-    "sounds": [
-      "spurs/jingle2"
+      "jinglebobs:spurs/jangle1",
+      "jinglebobs:spurs/jangle2"
     ]
   }
 }
